@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    gap: 10px;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size: smaller;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+
+.center{
+    display: flex;
+    gap: 15px;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.right{
+    border: 0.5px solid white;
+    border-radius: 7px;
+    padding: 10px 20px 10px 20px;
+}
