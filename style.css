@@ -15,11 +15,14 @@ body{
     color: white;
 }
 
-.right:hover, .item:hover{
+.right:hover {
     color: grey;
     border-color: grey;
 }
 
+.item:hover{
+    color: grey;
+}
 
 .center{
     display: flex;
