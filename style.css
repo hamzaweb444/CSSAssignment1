@@ -17,6 +17,7 @@ body{
 
 .right:hover, .item:hover{
     color: grey;
+    border-color: grey;
 }
 
 
